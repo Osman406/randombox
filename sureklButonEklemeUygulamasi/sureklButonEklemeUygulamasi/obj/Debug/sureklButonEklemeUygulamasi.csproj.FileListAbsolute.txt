@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\bin\Debug\sureklButonEklemeUygulamasi.exe.config
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\bin\Debug\sureklButonEklemeUygulamasi.exe
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\bin\Debug\sureklButonEklemeUygulamasi.pdb
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\obj\Debug\sureklButonEklemeUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\obj\Debug\sureklButonEklemeUygulamasi.Form1.resources
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\obj\Debug\sureklButonEklemeUygulamasi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\obj\Debug\sureklButonEklemeUygulamasi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\obj\Debug\sureklButonEklemeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\obj\Debug\sureklButonEklemeUygulamasi.exe
+C:\Users\ASUS\source\repos\sureklButonEklemeUygulamasi\sureklButonEklemeUygulamasi\obj\Debug\sureklButonEklemeUygulamasi.pdb
